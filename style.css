@@ -1,0 +1,766 @@
+.menu{
+border: 5px solid transparent;
+display: flex;
+}
+.menu-1{
+    border: 5px solid transparent;
+    width: 33.3%;
+    }
+
+.logo{
+        width: 90px;
+        height: 90px;
+        margin-left: 60px;
+}
+.menu-2{
+        border: 5px solid transparent;
+        width: 66.6%;
+        }
+.menu-2-1{
+    border: 3px solid transparent;
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 0px;
+
+}
+#cuenta{
+    width: 20px;
+    height: 20px;
+    margin-left: 300px;
+}
+#cuenta2{
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+}
+#panel{
+    margin-top: 3px;
+    margin-left: 8px;
+    font-size: 12px;
+}
+#registrar-icono{
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+#registrar{
+    margin-top: 3px;
+    margin-left: 20px;
+    font-size: 12px;
+}
+input{
+    border-radius: 20px;
+    margin-left: 20px;
+    height: 20px;
+    width: px;
+    padding-right: 100px;
+}
+#buscar{
+    width: 25px;
+    height: 25px;
+    margin-left: -25px;
+}
+.menu-2-2{
+    border: 3px solid transparent;
+    display: flex;
+}
+#home{
+    margin-left: 200px;
+    margin-right: 5px;
+    font-size: 12px;
+    color: red;
+}
+#margenes{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 12px;
+}
+
+#corazon{
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 8px;
+}
+#bolsa-compra{
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 8px;
+}
+
+
+
+
+.contenedor{
+    display: flex;
+    border: 5px solid transparent;
+}
+.contenedor-1{
+    background-color: rgb(247, 10, 46);
+    width: 25%;
+    height: 350px;
+    color: white;
+    
+}
+#titulo{
+    margin-left: 40px;
+    font-size: 18px;
+
+
+}
+#items{
+    margin-left: 60px;
+    font-size: 13px;
+}
+#ver-mas{
+    padding-left: 5px;
+    margin-left: 60px;
+    background-color: transparent;
+    color: white;
+    font-size:9px ;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 120px;
+}
+.contenedor-2{
+    
+    background-color: rgb(107, 149, 86);
+    width: 75%;
+    height: 350px;
+    display: flex;
+}
+.contenedor-2-1{
+    border: 5px solid transparent;
+    color: white;
+    width: 30%;
+    
+}
+.contenedor-2-2{
+    width: 70%;
+    border: 5px solid transparent;
+}
+#pareja{
+    width: 500px;
+    height: auto;
+    margin-left: 110px;
+    margin-top: 11px;
+    
+}
+#etiqueta{
+    color:white;
+    transform: rotate(-90deg);
+    padding-left: 10px;
+    background-color: red;
+    width: 150px;
+    margin-left: 610px;
+    margin-top: -200px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+#texto-grande{
+    font-size: 50px;
+    margin-left: 60px;
+    font-family:serif
+}
+#texto-pequeño{
+    margin-top: -50px;
+    font-size: 13px;
+    margin-left: 60px;
+}
+
+.centro-pag1{
+    border: 5px solid transparent;
+    height: 100px;
+    display: flex;
+
+}
+.centro-pag1-1{
+    border: 5px solid transparent;
+    width: 33.3%;
+    
+}
+.centro-pag1-1 p{
+    margin-left: 50px;
+    margin-top: -2px;
+    font-size: 12px;
+}
+#huevos{
+    border: 1px solid black;
+    width: 100px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-top: -10px;
+    padding: 5px;
+    display: flex;
+}
+
+#huevos img{
+    width: 40px;
+    height: 40px;
+    
+}
+#huevos p{
+    margin-left: 6px;
+    margin-top: 10px;
+}
+#bolso{
+    border: 1px solid black;
+    width: 100px;
+    border-radius: 30px;
+    margin-left: 200px;
+    margin-top: -53px;
+    padding: 5px;
+    display: flex;
+}
+#bolso img{
+    width: 40px;
+    height: 40px;
+}
+#bolso p{
+    margin-left: 6px;
+    margin-top: 10px;
+}
+
+.centro-pag1-2{
+    border: 5px solid transparent;
+    width: 33.3%;
+    display: flex;
+}
+
+#vestido{
+    display: flex;
+    border: 1px solid black;
+    height: 30px;
+    width: 120px;
+    margin-top: 20px;
+    margin-left: -90px;
+    padding-top: 20px;
+    border-radius: 40px;
+}
+#vestido p{
+    margin-left: -10px;
+}
+#vestido img{
+    width: 50px;
+    height: 50px;
+    margin-top: -22px;
+}
+#zapatos{
+    display: flex;
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 40px;
+    width: 120px;
+    border-radius: 30px;
+    padding: 5px;
+}
+#zapatos img {
+    width: 60px;
+    height: 60px;
+    margin-top: -10px;
+}
+#zapatos p{
+    margin-left: 5px;
+    margin-top: 12px;
+}
+.centro-pag1-2 p{
+    margin-left: 50px;
+    margin-top: -2px;
+    font-size: 12px;
+}
+.centro-pag1-3{
+    border: 5px solid transparent;
+    width: 33.3%;
+    
+}
+.centro-pag1-3 p{
+    margin-top: -1.5px;
+    font-size: 12px;
+    margin-left: 30px;
+}
+#manzana{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 2px;
+    width: 120px;
+    margin-left: 30px;
+}
+#manzana p{
+    margin-left: 5px;
+    margin-top: 8px;
+}
+#manzana img{
+    width: 40px;
+    height: 40px;
+}
+#licuadora{
+    display: flex;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 120px;
+    margin-left: 200px;
+    margin-top: -48px;
+}
+#licuadora p{
+    margin-left: 2px;
+    margin-top: 5px;
+
+}
+#licuadora img{
+    margin-left: 2px;
+    width: 30px;
+    height: 40px;
+    
+}
+
+.centro-pag2{
+    border: 5px solid transparent;
+    height: 100px;
+    display: flex;
+
+}
+#Imagen1{
+    border: 5px solid transparent;
+    width: 20%;
+}
+#Imagen1 img{
+    width: 100px;
+    height: 80px;
+    margin-left: 80px;
+    
+}
+.pie-pag{
+    background-color: #fef9f6;
+    border: 5px solid transparent;
+    height: 525px;
+    display: flex;
+
+}
+.pie-pag1{
+    border: 5px solid transparent;
+    width: 80%;    
+
+}
+.pie-pag1-1{
+    border: 5px soliD transparen;  
+    display: flex;
+    
+    
+
+}
+.pie-pag1-1 p{
+    font-size: 30px;
+    margin-left: 80px;
+
+}
+#flecha-uno{
+    width: 30px;
+    height: 30px;
+    margin-left: 550px;
+
+}
+#flecha-dos{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+
+}
+.pie-pag1-2{
+    display: flex;
+}
+.pie-pag1-2-1{
+    border: 5px solid transparent;
+    width: 50%;
+    display: flex;
+
+
+}
+#imagen-audifonos{
+    border: 2px solid transparent;
+    width: 50%;
+}
+.circulo{
+    padding: 7px;
+    justify-items: center;
+    height: 40px;
+    width: 40px;
+    background-color: #3a3887;
+    border-radius: 50% ;
+    margin-left: 160px;
+    margin-top: 70px;
+}
+#imagen-audifonos img{
+    width: 220px;
+    height: 220px;
+    margin-left: -130px;
+    filter: blur(2px);
+}
+#texto-audifonos{
+    border: 2px solid transparent;
+    width: 50%;
+}
+.prima{
+    background-color:red;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    border: none;
+}
+.prima-repoño{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 10px 25px 10px;
+    border: none;
+    clip-path: polygon(0 0, 100% 0, 100% calc(100% - 20px), 50% 100%, 0 calc(100% - 20px));
+    
+}
+.cantidad{
+    font-size: 10px;
+background-color: #ffff;
+color: red;
+border: 1px solid red;
+padding: 5px 50px 5px 10px;
+border-radius: 10px;
+}
+.cantidad2{
+    font-size: 10px;
+background-color: #ffff;
+color: black;
+border: 1px solid black;
+padding: 5px 50px 5px 10px;
+border-radius: 10px;
+}
+
+#estrella{
+    width: 10px;
+}
+#calificacion{
+    margin-left: 15px;
+    margin-top: -15px;
+}
+#precio{
+    margin-left: 15px;
+    margin-top: -15px;
+}
+#precio-red{
+    margin-left: 60px;
+    margin-top: -39px;
+    color: red;
+}
+#img-corazon{
+    width: 30px;
+    height: 30px;
+    margin-left:140px;
+    margin-top: -180px;
+    
+    
+}
+#img-corazon2{
+    width: 30px;
+    height: 30px;
+    margin-left: 100px;
+    margin-top: -15px;
+    
+    
+}
+#img-corazon3{
+    width: 30px;
+    height: 30px;
+    margin-left: 100px;
+    margin-top: -15px;
+    
+    
+}
+
+.pie-pag1-2-2{
+    border: 5px solid transparent;
+    width: 50%;
+    display: flex;
+    
+
+}
+.repollo{
+    border: 3px solid transparent;
+}
+.repollo img{
+    width: 220px;
+    height: 220px;
+}
+.texto-repollo{
+    border: 3px solid transparent;
+    width: 50%;
+}
+.pie-pag2{
+    border: 5px solid transparent;
+    width: 20%;
+    background-color: rgb(247, 10, 46);
+
+
+}
+.pescado{
+    border: 3px solid transparent ;
+    height: 50% ;
+    color: white;
+
+}
+.prima2{
+    background-color: white;
+    color: red;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    border: none;
+    position: relative; top: -130px; left: 60px;
+}
+#pescado{
+width: 150px;
+height: 150px;
+transform: rotate(20deg);
+}
+#texto-pescado{
+    margin-top: -40px;
+    font-size: 12px;
+    margin-left: 80px;
+}
+.pescado-estrella{
+    width: 10px;
+height: 10px;
+margin-left: 80px;
+}
+#texto-estrella{
+    font-size: 10px;
+    margin-left: 90px;
+    margin-top: -15px;
+    
+}
+#precio-pequeño{
+    font-size: 10px;
+    margin-top: 0px;
+    margin-left: 80px;
+}
+#precio-grande{
+    font-size: 15px;
+    margin-top: -37px;
+    margin-left: 120px;
+}
+#boton-pescado{
+    color: white;
+    font-size: 8px;
+    padding: 5px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 20px;
+    position: relative; top: -20px; left: 80px;
+}
+
+.zapatos{
+    border: 3px solid transparent;
+    height: 60%;
+    color: white;
+     
+}
+#zapatos-negros{
+    width: 150px;
+    height: 150px;
+    transform: rotate(17deg);
+    }
+.ticket{
+        background-color: white;
+        color: red;
+        border-radius: 10px;
+        padding: 10px 10px 25px 10px;
+        border: none;
+        position: relative; top: -110px; left: 175px;
+        clip-path: polygon(0 0, 100% 0, 100% calc(100% - 20px), 50% 100%, 0 calc(100% - 20px));
+}
+
+
+@media (max-width: 720px){
+    .contenedor{
+        display: block;
+        border: 5px solid transparent;
+    }
+    .contenedor-1{
+        display: flex;
+        background-color: rgb(247, 10, 46);
+        width: 150%;
+        height: 80px;
+        color: white;
+        
+    }
+    .contenedor-2{
+    
+        background-color: rgb(107, 149, 86);
+        width: 150%;
+        height: 500px;
+        display: flex;
+        margin-top: px;
+    }
+    .contenedor-2-1{
+        border: 5px solid transparent;
+        color: white;
+        width: 30%;
+        
+        
+    }
+    #texto-grande{
+        font-size: 80px;
+        margin-left: 60px;
+        font-family:serif
+    }
+    #texto-pequeño{
+        margin-top: -50px;
+        font-size: 13px;
+        margin-left: 60px;
+    }
+    #pareja{
+        width: 780px;
+        height: auto;
+        margin-left: -10px;
+        margin-top: -20px;
+        
+    }
+    .centro-pag1{
+        display: none;
+    }
+    .centro-pag2{
+        display: none;
+    }
+    .pie-pag2{
+        display: none;
+    }
+   
+    .pie-pag1-1{
+        background-color: none;
+        width: 1050px;
+    }
+    .pie-pag1-1 p{
+        font-size: 50px;
+    }
+    #flecha-uno{
+        display: none;
+    }
+    #flecha-dos{
+        display: none;
+    }
+    .pie-pag1-2{
+        background-color: none;
+        display: block;
+        width: 1050px;
+
+    }
+    .circulo{
+        display: none;
+    }
+    #imagen-audifonos img{
+        width: 500px;
+        height: 500px;
+        margin-left: 50px;
+    }
+    #texto-audifonos{
+        background-color: none;
+        border: 2px solid transparent;
+        width: 2000px;
+        font-size: 40px;
+        margin-left: 250px;
+    }
+    .prima{
+        background-color:red;
+        color: white;
+        border-radius: 10px;
+        padding: 5px 10px 5px 10px;
+        border: none;
+        width: 300px;
+        height: 50px;
+    }
+    .prima-repoño{
+        font-size: 40px;
+        background-color: red;
+        color: white;
+        border-radius: 10px;
+        padding: 10px 10px 25px 10px;
+        border: none;
+        clip-path: polygon(0 0, 100% 0, 100% calc(100% - 20px), 50% 100%, 0 calc(100% - 20px));
+        
+    }
+    .cantidad{
+        font-size: 20px;
+    background-color: #ffff;
+    color: red;
+    border: 1px solid red;
+    padding: 10px 50px 10px 10px;
+    border-radius: 10px;
+    }
+    .cantidad2{
+        font-size: 20px;
+    background-color: #ffff;
+    color: black;
+    border: 1px solid black;
+    padding: 10px 50px 10px 10px;
+    border-radius: 10px;
+    }
+    
+    #estrella{
+        width: 50px;
+    }
+    #calificacion{
+        margin-left: 50px;
+        margin-top: -50px;
+        font-size: 40px;
+    }
+    #unico{
+        margin-top: -80px;
+    }
+    #precio{
+        font-size: 30px;
+        margin-left: 15px;
+        margin-top: px;
+    }
+    #precio-red{
+        font-size: 40px;
+        margin-left: 120px;
+        margin-top: -115px;
+        color: red;
+    }
+    #img-corazon{
+        display: none;
+        
+    }
+    #img-corazon2{
+        width: 30px;
+        height: 30px;
+        margin-left: 100px;
+        margin-top: -15px;
+        
+        
+    }
+    #img-corazon3{
+        width: 30px;
+        height: 30px;
+        margin-left: 100px;
+        margin-top: -15px;
+        
+        
+    }
+    .texto-repollo{
+        margin-bottom: -100px;
+
+        font-size: 40px;
+    }
+
+    .repollo img{
+        width: 550px;
+        height: 550px;
+    }
+    .pie-pag{
+        background-color: #fef9f6;
+        height: 1550px;
+        width: 1050px;
+    }
+}
